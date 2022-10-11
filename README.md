@@ -65,7 +65,7 @@ License to use data (CC0: Public Domain)
 
 **Please remember to update this section**
 
-- Dakota Bonvie: one sentence about you!
+- Dakota Bonvie: I'm a second year UBCO BSC student excited to learn more about astrophysics and exoplanets!
 - Kevin Ruan sentence about you!
 - Boluwatife Yomi-Adeyemi: one sentence about you!
 
