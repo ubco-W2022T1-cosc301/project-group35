@@ -66,7 +66,7 @@ License to use data (CC0: Public Domain)
 **Please remember to update this section**
 
 - Dakota Bonvie: I'm a second year UBCO BSC student excited to learn more about astrophysics and exoplanets!
-- Kevin Ruan sentence about you!
+- Kevin Ruan: I'm a second year UBCO BSC student interested in the data that NASA provided.
 - Boluwatife Yomi-Adeyemi: I am a third year UBCO Bsc student
 
     We are interested in this topic due to the vast need for more researchers and data scientists interested in the exploration of space as well as the furthering of human technologies.
