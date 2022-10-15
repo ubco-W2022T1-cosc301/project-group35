@@ -78,7 +78,6 @@ License to use data (CC0: Public Domain)
 
 {You can use this area for any images you want to include}
 
-<img src ="" width="100px">
 
 ## References
 
