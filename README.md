@@ -86,11 +86,13 @@ License to use data (CC0: Public Domain)
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
 https://www.kaggle.com/datasets/shivamb/all-exoplanets-dataset?resource=download
+
 https://exoplanetarchive.ipac.caltech.edu/
 
-https://www.nasa.gov/
+Nasa. Retrieved October 8, 2022, from https://www.nasa.gov/
 
-https://www.ncbi.nlm.nih.gov/pmc/aticles/PMC4156692/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156692/
+
 
 https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml
 
