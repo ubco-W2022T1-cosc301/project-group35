@@ -97,5 +97,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156692/
 https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml
 
 
+License to use data (CC0: Public Domain)
 
 
