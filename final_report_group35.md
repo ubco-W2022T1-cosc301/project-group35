@@ -48,11 +48,17 @@ By general knowledge and reserach gathered, it is generally stated that in order
 
 By checking our data, we can create a visualization of planets with closest earth like masses, Eccentricity data, and Orbital Periods. 
 
+
+
+Visualization of planet properties / characteristics.
+---
+
 ![](images\Dakota3Mass.png)
 
+The link to my notebook is here: [Link to my Notebook](notebooks\analysis1.ipynb)
 
 
-
+---
 
 
 
@@ -81,4 +87,12 @@ The link to my notebook is here: [Link to my Notebook](http://localhost:8888/lab
 
 
 ## Conclusion
+
+---
+
+
+Throughout our project and data we came to the conclusion that agrees with our data researched theories online. To determine this, we researched the approximate property requirements for an exoplanet to be habitable. We found that in order for an exoplanet to be habitable / sustain life, it must follow a coplex list of rules (approximate properties) which keep the enviroment safe for life to exist. 
+
+During this project we learned how to properly use jupyter lab and tableau to precisely and accurately display our data. Using tableau helped us share our findings in a more visual and user friendly way where it is easy to understand. 
+
 
