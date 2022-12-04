@@ -22,7 +22,7 @@ When using Photometry, astronomers can also determine the temperature and color 
 Below Is a visualization of the usage of Discovery Methods.
 ---
 
-![image](images\Dakota1Discovery.png)
+![Visualization of discovery methods](images/Dakota1Discovery.png "Discovery Methods")
 
 As stated before, planet's habitability can be determined through it's characteristics, enviromental stability, atmosphere, gravitation interactions within it's orbit(s), and other properties. 
 
