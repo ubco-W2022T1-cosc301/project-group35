@@ -5,7 +5,56 @@ Our project is an analysis of the exoplanets that exist outside of our solar sys
 
 # Exploratory Data Analysis
 
-## Question 1 + Results
+
+## Dakota Bonvie - How can we accurately make a prediction on the percent chance of habitability of an exoplanet?
+
+
+
+Throughout the sorting and processing of our data for this question I found that the habitability largely depends on it's characteristics as well as it's properties. 
+
+It has been determined that Photometry / Transit is the best and only method with the most promising results for finding Earth-size planets within the habitable zone. Photometry / transit method  is a method in which the brightness of a star is measured. With this we can determine many properties of the exoplanet. 
+
+
+In Detail Explanation of Photometry / Transit Photometry Below -
+
+When using Photometry, astronomers can also determine the temperature and color fo the star they are observing. With transit photometry the drops in observable light are mesured which can aid in the calculations of the planet's size. 
+
+Below Is a visualization of the usage of Discovery Methods.
+---
+
+![](images\Dakota1Discovery.png)
+
+
+As stated before, planet's habitability can be determined through it's characteristics, enviromental stability, atmosphere, gravitation interactions within it's orbit(s), and other properties. 
+
+We used the known requirements to make an estimate on if it is realistic for exoplanets with multiple stars to be habitable. 
+
+A planet that orbits two or more stars is classified as a circumbinary planet. 
+Through research as well as data colected we found that it is generally less likely for planets in multi-star systems to harbor life / be habitable. 
+
+Visualization of multi-star systems
+---
+![](images\Dakota2StartsTempSS.png)
+
+
+Predicted Habitable planets vs Non-Habitable Planets
+
+There are many requirements for a planet to be habitable and scientists have already predicted a few which may be candidates for a future colony. The temperature is also a large factor which must be taken into consideration. 
+
+
+Main factors for habitability are Mass, orbit properties, and Temperature.
+By general knowledge and reserach gathered, it is generally stated that in order for a plent to be potentially habitable, the exoplanet must have a mass related / near earthlike mass (5.972 x 10^24 kg)
+
+
+
+By checking our data, we can create a visualization of planets with closest earth like masses / potential candidates. 
+
+![](images\Dakota2StartsTempSS.png)
+
+
+
+
+
 
 
 
