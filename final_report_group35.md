@@ -70,9 +70,11 @@ Trying to figure out the answer to this question, I first produced a normal tabl
 ![Chart showing top 10 planets with highest orbital period days](images/bolu4.png "Bar chart ")
 
 After visualizing my data, I needed to determine which planets have the highest number of stars. I made a bar chart that displays the top 10 exoplanets that possess the highest number of stars. This is important because we need to be sure if planets, that have more than one star, are habitable. 
+
 ![Chart showing top 10 planets with highest number of stars](images/bolu5.png "Bar Chart")
 
 Finally, I tried to look for the most popular method used to find exoplanets. The bar chart below shows that the transit method is the most used method to discover exoplanets. This is because the transit method is the easiest method to use and also gives the most accurate result. The transit method uses the light curve to determine the size of a planet.
+
 ![Chart showing the different Discovery Methods](images/bolu6.png "Bar Chart")
 
 Overall, although these charts were able to show some of the properties that influence a human's chance of survival, it still shows that there are a few more things that we need to determine if humans can survive on a planet or not. Another important point that could not be addressed from the dataset is the possibility of liquid water on the planet. Due to not having a method of determining if water could be on the planet, it is almost impossible for us to determine if life could exist on any of those planets.
