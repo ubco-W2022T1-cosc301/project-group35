@@ -46,11 +46,9 @@ By general knowledge and reserach gathered, it is generally stated that in order
 
 
 
-By checking our data, we can create a visualization of planets with closest earth like masses / potential candidates. 
+By checking our data, we can create a visualization of planets with closest earth like masses, Eccentricity data, and Orbital Periods. 
 
-![](images/Dakota2StartsTempSS.png)
-
-
+![](images\Dakota3Mass.png)
 
 
 
@@ -63,7 +61,6 @@ By checking our data, we can create a visualization of planets with closest eart
 
 
 
-## Question 2 + Results
 ## Boluwatife Yomi-Adeyemi - How do the properties of exoplanets influence a human's chance of survival?
 
 Trying to figure out the answer to this question, I first produced a normal table that gives me the name of the exoplanets and some of its properties. I then made a bar chart which inluded the top 10 exoplanets with the highest orbital period days. Orbital period days mean "how long it takes a planet to revolve round its star." The bar chart will be presented below:
@@ -80,6 +77,6 @@ Overall, although these charts were able to show some of the properties that inf
 The link to my notebook is here: [Link to my Notebook](http://localhost:8888/lab/tree/notebooks/analysis2.ipynb)
 
 
-## Question 3 + Results
 
 ## Conclusion
+
