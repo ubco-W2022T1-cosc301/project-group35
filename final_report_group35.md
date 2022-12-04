@@ -33,7 +33,7 @@ Through research as well as data colected we found that it is generally less lik
 
 Visualization of multi-star systems
 ---
-![](images\Dakota2StartsTempSS.png)
+![](images/Dakota2StartsTempSS.png)
 
 
 Predicted Habitable planets vs Non-Habitable Planets
@@ -48,7 +48,7 @@ By general knowledge and reserach gathered, it is generally stated that in order
 
 By checking our data, we can create a visualization of planets with closest earth like masses / potential candidates. 
 
-![](images\Dakota2StartsTempSS.png)
+![](images/Dakota2StartsTempSS.png)
 
 
 
