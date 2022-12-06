@@ -84,8 +84,20 @@ Overall, although these charts were able to show some of the properties that inf
 
 The link to my notebook is here: [Link to my Notebook](http://localhost:8888/lab/tree/notebooks/analysis2.ipynb)
 
+## Kevin Ruan - How much has our recent advances in technology propelled our search for exoplanets?
+---
+In the last couple centuries, technology has grown exponentially and far more than they have ever done. As our ability to discover has improved, we've had an exponential growth in exoplanet discovery. Here we can see that during the 2010s, the discovery of exoplanets peaked since then we've turned our attention to other fields.
 
+![Exoplanets Discovered per Year](images/kevin1.png "Countplot")
 
+We've also been also to see further than ever before and we're able to see exoplanets a lot further away. Shown here, the distance has increased dramatically.
+
+![Distance of Exoplanets](images/kevin2.png "Displot")
+
+After excluding a few outliers, the Orbital period can be linked to the mass of the exoplanet by having an inverse relation.
+
+![Mass in relation to orbital period](images/kevin3.png "Scatterplot")
+The link to my notebook is here: [Link to my Notebook](http://localhost:8888/lab/tree/notebooks/analysis3.ipynb)
 ## Conclusion
 
 ---
